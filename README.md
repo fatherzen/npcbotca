@@ -6,6 +6,8 @@ Current options -
 1. Completely Random NPCBots w/ QTY
 2. Customized Selection of Race / Class / Sex / QTY
 
+Some options still in the works, mostly randomization. 
+
 Example Output  - 
 
 ![image](https://github.com/fatherzen/npcbotca/assets/158113285/360eceba-9de8-4dcf-b2a0-daf3106f25ed)
