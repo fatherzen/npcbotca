@@ -431,7 +431,7 @@ function generateRandomNPC()
 	end
 
     -- Print the generated NPC details
-	print("TestName" .. " " .. class .. " " .. race .. " " .. sex .. " " .. skin .. " " .. face .. " " .. hair .. " " .. hairCo .. " " .. feat )
+	print(".npcbot createnew TEMPNAME" .. " " .. class .. " " .. race .. " " .. sex .. " " .. skin .. " " .. face .. " " .. hair .. " " .. hairCo .. " " .. feat )
 end
 
 -- Function to generate an NPC based on choices
@@ -587,7 +587,7 @@ function generateNPCByChoices(raceChoice, sexChoice, classChoice)
 	end
 	
 	-- Print the generated NPC details
-	print("TestName" .. " " .. class .. " " .. race .. " " .. sex .. " " .. skin .. " " .. face .. " " .. hair .. " " .. hairCo .. " " .. feat )
+	print(".npcbot createnew TEMPNAME" .. " " .. class .. " " .. race .. " " .. sex .. " " .. skin .. " " .. face .. " " .. hair .. " " .. hairCo .. " " .. feat )
 end
 
 -- Function to get a random race based on faction
