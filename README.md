@@ -1,6 +1,6 @@
 NPCBot Creation Assistant
 
-LUA Cli script to speed up the NPCBot creation process.
+LUA Cli script to speed up the NPCBot creation process by randomizing the visual ranges for npcbots.
 
 Current options -
 1. Completely Random NPCBots w/ QTY
